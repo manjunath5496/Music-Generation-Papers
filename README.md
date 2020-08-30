@@ -61,5 +61,5 @@ Learning Expressive Musical Performance</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Music-Generation-Papers/blob/master/mg(28).pdf" style="text-decoration:none;">Incorporating Music Knowledge in Continual Dataset Augmentation for Music Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-Generation-Papers/blob/master/mg(29).pdf" style="text-decoration:none;">Neural Shuffle-Exchange Networks 􀀀 Sequence Processing in O(n log n) Time</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-Generation-Papers/blob/master/mg(29).pdf" style="text-decoration:none;">Automatic Music Generation and Machine Learning Based Evaluation</a></li>                              
 </ul>
